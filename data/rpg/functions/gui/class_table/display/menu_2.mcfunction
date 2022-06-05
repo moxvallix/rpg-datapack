@@ -1,0 +1,2 @@
+function rpg:gui/shared/display/green_background
+data modify block ~ ~ ~ Items append value {Slot: 13b,id:"minecraft:red_stained_glass_pane",Count:1b,tag:{display:{Name:'{"text":"Menu 1"}'},rpg.gui:1b}}

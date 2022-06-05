@@ -1,0 +1,1 @@
+function rpg:gui/class_table/_tick
